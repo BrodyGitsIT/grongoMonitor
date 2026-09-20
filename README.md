@@ -40,7 +40,7 @@ Designed for:
 ## Install (from a git checkout)
 
 ```bash
-git clone https://github.com/<you>/grongoMonitor.git
+git clone https://github.com/BrodyGitsIT/grongoMonitor.git
 cd grongoMonitor
 sudo pwsh ./Install-GrongoMonitor.ps1          # Windows: run PowerShell as Administrator, no sudo
 ```
